@@ -1,5 +1,5 @@
 import random
-
+#hola a todos
 def adivinanza():
     # Generamos un número aleatorio entre 1 y 100
     numero_aleatorio = random.randint(1, 100)
